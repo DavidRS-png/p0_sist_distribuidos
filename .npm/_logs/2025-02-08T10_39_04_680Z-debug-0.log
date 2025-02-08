@@ -1,0 +1,18 @@
+0 verbose cli /home/david/.nvm/versions/node/v22.13.1/bin/node /home/david/.nvm/versions/node/v22.13.1/bin/npm
+1 info using npm@10.9.2
+2 info using node@v22.13.1
+3 silly config load:file:/home/david/.nvm/versions/node/v22.13.1/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/david/p0_sist_distribuidos/.npmrc
+5 silly config load:file:/home/david/.npmrc
+6 silly config load:file:/home/david/.nvm/versions/node/v22.13.1/etc/npmrc
+7 verbose title npm help init
+8 verbose argv "help" "init"
+9 verbose logfile logs-max:10 dir:/home/david/.npm/_logs/2025-02-08T10_39_04_680Z-
+10 verbose logfile /home/david/.npm/_logs/2025-02-08T10_39_04_680Z-debug-0.log
+11 silly logfile done cleaning log files
+12 verbose cwd /home/david/p0_sist_distribuidos
+13 verbose os Linux 5.15.167.4-microsoft-standard-WSL2
+14 verbose node v22.13.1
+15 verbose npm  v10.9.2
+16 verbose exit 0
+17 info ok

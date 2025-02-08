@@ -1,0 +1,23 @@
+{
+  "name": "david",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidRS-png/p0_sist_distribuidos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/DavidRS-png/p0_sist_distribuidos/issues"
+  },
+  "homepage": "https://github.com/DavidRS-png/p0_sist_distribuidos#readme",
+  "description": "",
+  "dependencies": {
+    "factorial": "^2.0.0"
+  }
+}

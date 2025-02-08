@@ -1,0 +1,33 @@
+0 verbose cli /home/david/.nvm/versions/node/v22.13.1/bin/node /home/david/.nvm/versions/node/v22.13.1/bin/npm
+1 info using npm@10.9.2
+2 info using node@v22.13.1
+3 silly config load:file:/home/david/.nvm/versions/node/v22.13.1/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/david/p0_sist_distribuidos/.npmrc
+5 silly config load:file:/home/david/.npmrc
+6 silly config load:file:/home/david/.nvm/versions/node/v22.13.1/etc/npmrc
+7 verbose title npm init .y
+8 verbose argv "init" ".y"
+9 verbose logfile logs-max:10 dir:/home/david/.npm/_logs/2025-02-08T10_38_53_976Z-
+10 verbose logfile /home/david/.npm/_logs/2025-02-08T10_38_53_976Z-debug-0.log
+11 silly logfile done cleaning log files
+12 verbose stack Error: Unrecognized initializer: .y
+12 verbose stack For more package binary executing power check out `npx`:
+12 verbose stack https://docs.npmjs.com/cli/commands/npx
+12 verbose stack     at Init.execCreate (/home/david/.nvm/versions/node/v22.13.1/lib/node_modules/npm/lib/commands/init.js:117:29)
+12 verbose stack     at Init.exec (/home/david/.nvm/versions/node/v22.13.1/lib/node_modules/npm/lib/commands/init.js:44:25)
+12 verbose stack     at /home/david/.nvm/versions/node/v22.13.1/lib/node_modules/npm/lib/npm.js:255:63
+12 verbose stack     at Object.start (/home/david/.nvm/versions/node/v22.13.1/lib/node_modules/npm/node_modules/proc-log/lib/index.js:101:21)
+12 verbose stack     at #exec (/home/david/.nvm/versions/node/v22.13.1/lib/node_modules/npm/lib/npm.js:254:17)
+12 verbose stack     at async Npm.exec (/home/david/.nvm/versions/node/v22.13.1/lib/node_modules/npm/lib/npm.js:207:9)
+12 verbose stack     at async module.exports (/home/david/.nvm/versions/node/v22.13.1/lib/node_modules/npm/lib/cli/entry.js:74:5)
+13 error code EUNSUPPORTED
+14 error Unrecognized initializer: .y
+14 error For more package binary executing power check out `npx`:
+14 error https://docs.npmjs.com/cli/commands/npx
+15 verbose cwd /home/david/p0_sist_distribuidos
+16 verbose os Linux 5.15.167.4-microsoft-standard-WSL2
+17 verbose node v22.13.1
+18 verbose npm  v10.9.2
+19 verbose exit 1
+20 verbose code 1
+21 error A complete log of this run can be found in: /home/david/.npm/_logs/2025-02-08T10_38_53_976Z-debug-0.log
